@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>el_02</title>
 </head>
 <body>
 	<form action="el_02_res.jsp" method="get">
